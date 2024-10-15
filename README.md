@@ -1,5 +1,7 @@
 # SPRING_BOOT_GERLESSVER
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/edinaldorodriguesceara/ruby_on_rails_gerlessver/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/edinaldorodriguesceara/ruby_on_rails_gerlessver/tree/main)
+
 
 
 <div align="center">
