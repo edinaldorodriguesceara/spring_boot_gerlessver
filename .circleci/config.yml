@@ -31,8 +31,7 @@ jobs:
           paths:
             - ~/.m2
       - run:
-          name: Run Maven Tests
-          command: |
-            docker compose exec app mvn test
+          name:  Tests
+          command: mvn test
       
             
