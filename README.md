@@ -1,7 +1,6 @@
 # SPRING_BOOT_GERLESSVER
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/edinaldorodriguesceara/ruby_on_rails_gerlessver/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/edinaldorodriguesceara/ruby_on_rails_gerlessver/tree/main)
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/edinaldorodriguesceara/spring_boot_gerlessver/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/edinaldorodriguesceara/spring_boot_gerlessver/tree/master)
 
 
 <div align="center">
