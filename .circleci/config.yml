@@ -25,11 +25,6 @@ jobs:
       - run:
           name: Up
           command: docker compose up -d
-      - run:
-          name: Spring
-          command: |
-            docker compose exec app bash
-            mvn spring-boot:run
       - save_cache:
           name: Save Cache
           key: '{{ checksum "pom.xml" }}'
